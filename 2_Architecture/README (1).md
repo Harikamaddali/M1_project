@@ -6,6 +6,10 @@
 ## HIGH LEVEL DESIGN
 structural and behavioural diagrams
 ![Structural Diagram](https://user-images.githubusercontent.com/101419044/161257570-510e103a-00c8-4aa6-92b3-272519472368.jpeg)
-![usecase](https://user-images.githubusercontent.com/101419044/161257699-15455d9b-a5a5-4e56-a056-7335c8f7a8c5.png)
+![floew](https://user-images.githubusercontent.com/101419044/161259573-930893c8-660f-4e06-9d71-c2f3920699b8.jpg)
+
 
 ## LOW LEVEL DESIGN
+![behave](https://user-images.githubusercontent.com/101419044/161258085-9d716c99-28c6-4115-b745-9ba5ee0a789e.png)
+
+
