@@ -11,5 +11,6 @@ structural and behavioural diagrams
 
 ## LOW LEVEL DESIGN
 ![behave](https://user-images.githubusercontent.com/101419044/161258085-9d716c99-28c6-4115-b745-9ba5ee0a789e.png)
+![sequential](https://user-images.githubusercontent.com/101419044/161259993-e8d860b4-0644-4867-8941-3532c70bbb8b.png)
 
 
