@@ -47,8 +47,8 @@ The phonebook application works specifically for tracking people. The Phonebook 
 
 
 ## SWOT ANALYSIS
+![w9R5OsS - Imgur](https://user-images.githubusercontent.com/101419044/161216493-d2a31fe5-ba3b-41b8-8ff9-93a60a6b468e.png)
 
-![swot](https://imgur.com/a/D2gvxDP)
 ## 4W's  and  1'H
 
 
@@ -76,8 +76,22 @@ The contact is saved,if the user done step by step process of application.
 
 
 ## HIGH LEVEL REQUIREMENTS
-
+| ID   | Description                                          | Category       | status(Implemented/In Progress) |
+|------|------------------------------------------------------|----------------|---------------------------------|
+| HR01 | User shall be able to add new contact                | Functional     | Implemented                     |
+| HR02 | User shall be able to add information                | Functional     | Implemented                     |
+| HR03 | User shall be able to edit contact                   | Functional     | Implemented                     |
+| HR04 | User shall be able to delete contact                 | Functional     | Implemented                     |
+| HR05 | User shall be able to Save contact in application    | Functional     | Implemented                     |
+| HR06 | Data should not be lost if any failure               | Non progress   | In progress                     |
+| HR07 | When closing the system data should always be stored | Non functional | In progress                     |
 
 
 
 ## Low Level Requirements
+| ID   | Description                                                                         | status      |
+|------|-------------------------------------------------------------------------------------|-------------|
+| LR01 | New Contact shall be added by providing all the information                         | Implemented |
+| LR02 | Contact name should be unique or else it should not be accepted                     | Implemented |
+| LR03 | Contact Person data should be possible ,first being by searching the name of person | Implemented |
+| LR04 | While searching all the contact,all should be visible if user wants to see more     | In progress |
