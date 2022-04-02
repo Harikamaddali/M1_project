@@ -1,0 +1,26 @@
+/**
+ * @file Phonebook.h
+ * @author Harika
+ * @brief Header file for function prototypes
+ * @version 0.1
+ * @date 2022-3-31
+ * 
+ * @copyright Copyright (c) 2022
+ * 
+ * 
+ */
+#ifndef PHONEBOOK_H_
+#define PHONEBOOK_H_
+
+/* Function Prototypes */
+void menu();
+void got();
+void start();
+void back();
+void addrecord();
+void listrecord();
+void modifyrecord();
+void deleterecord();
+void searchrecord();
+
+#endif // PHONEBOOK_H_
