@@ -21,6 +21,6 @@ void addrecord();
 void listrecord();
 void modifyrecord();
 void deleterecord();
-void searchrecord();
+void searrchrecord();
 
 #endif // PHONEBOOK_H_
